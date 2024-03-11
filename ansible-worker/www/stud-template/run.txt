@@ -1,5 +1,0 @@
-ansible-playbook -i hosts.ini site.yml
-ansible -m ping -i hosts.ini all
-ansible -m shell -a "echo hello" -i hosts.ini all
-
-# ИПОЛЬЗОВАЛ ПРИМЕР
